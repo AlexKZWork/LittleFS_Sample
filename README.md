@@ -1,3 +1,11 @@
-LittleFS_Sample
+# EEPROM 24C08A Usage
 
-Sample for read and write file with "LittleFS" library on Arduino IDE for RP2040 microcontroller.
+Sample for write/read EEPROM with Raspberry Pi Pico.
+
+## Install
+
+Just open in Arduino IDE
+
+## License
+
+Alex Login
