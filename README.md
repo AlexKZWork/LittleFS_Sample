@@ -1,6 +1,6 @@
-# EEPROM 24C08A Usage
+# LittleFS library sample
 
-Sample for write/read EEPROM with Raspberry Pi Pico.
+Sample for write/read file with LittleFS library on Raspberry Pi Pico.
 
 ## Install
 
