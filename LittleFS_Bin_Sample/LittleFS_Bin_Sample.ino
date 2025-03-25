@@ -1,6 +1,6 @@
 #include <LittleFS.h>
 
-constexpr char FILE_PATH[] = "/settings/config.txt";
+constexpr char FILE_PATH[] = "/settings/config.bin";
 
 // Структура для примера
 struct Config {
